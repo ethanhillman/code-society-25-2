@@ -37,5 +37,6 @@ It's ok to interrupt when I have headphones on and if I don't respond just tap m
 * Fruit on pizza? Only pineapples 
 * My hometown: Smyrna , Delaware
 * Sports loyalties: Pittsburgh Steelers
-![alt text](images/79AD1D98-E731-4907-94F1-E7F24320C63F.jpg){width=50%}
-![alt text](images/IMG_4975.jpeg){width=50%}
+
+<img src="images/79AD1D98-E731-4907-94F1-E7F24320C63F.jpg" alt="Alt text" width="300"/>
+<img src="images/IMG_4975.jpeg" alt="Alt text" width="300"
