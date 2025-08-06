@@ -3,7 +3,7 @@
 
 
 ### My work hours:
-*I am a night owl I stay up late , but not to late where I am tired in the morning.
+*I am a night owl I stay up late, but not to late where I am tired in the morning.
 I expect someone to work with me when they're struggling and need help or when I'm struggling and need help.
 I'm unavailble in the morning I need sometime to wake up fully.*
 
