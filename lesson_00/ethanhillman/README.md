@@ -25,7 +25,7 @@ It's ok to interrupt when I have headphones on and if I don't respond just tap m
 *In-person feedback is the best to me, if I'm doing right I'll like to know to doesn't have to be frequent, but if I'm doing wrong I'll like to know in that instant.*
 
 ### One of my goals for the coming year:
-*One of my goals is to move out parents house for this coming up year and get my own.*
+*One of my goals is to move out my parents house for this coming up year and get my own.*
 
 ### Topics I’m always happy to talk about:
 *I'm always happy to talk about anime, sports, and videos games all the time.*
