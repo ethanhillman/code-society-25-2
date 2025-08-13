@@ -84,7 +84,7 @@ export class Lesson2 {
         [AnswerChoice.C, "git branch"],
         [AnswerChoice.D, "git pull"],
       ]),
-      AnswerChoice.A, 
+      AnswerChoice.B, 
     );
   }
 
