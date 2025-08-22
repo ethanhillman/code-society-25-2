@@ -1,4 +1,4 @@
-# Bugs in UTasks online todo app
+# Bugs in GitHub
 
 ## First Bug
  Added a task for today and it got added in the Next 7 days reminder.
