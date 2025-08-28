@@ -1,7 +1,8 @@
 import csv from 'csv-parser';
 import fs from 'fs';
-import { MediaItem } from '../models/media_items';
+import { MediaItem } from '../models/media_item.js';
 import { Loader } from './loader.js';
+
 export class EthanHillmanLoader implements Loader {
   getLoaderName(): string {
     return 'ethanhillman';
@@ -22,7 +23,9 @@ export class EthanHillmanLoader implements Loader {
       .pipe(csv());
     for await (const row of readable) {
       const { id, title, type, release_year } = row;
-      mediaItems.push(new MediaItem(id, title, type, parseInt(release_year)));
+      mediaItems.push(
+        new MediaItem(id, title, type, parseInt(release_year), []),
+      );
     }
     return mediaItems;
   }
